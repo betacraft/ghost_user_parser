@@ -1,0 +1,4 @@
+id,email,name,note,subscribed_to_emails,complimentary_plan,stripe_customer_id,created_at,deleted_at,labels,tiers
+6sadsadasdasda,email@google.io,John Smith,,true,true,,2022-12-04T05:02:07.000Z,,,Premium Member
+6daasdasdewew,email1@google.io,Jane Smith,,true,,cus_abcdefghijk,2022-12-06T10:04:04.000Z,,,
+6dasdasdaewewq,email2@google.io,Sasi Tharoor,,true,true,,2022-12-06T10:31:20.000Z,,,Premium Member
